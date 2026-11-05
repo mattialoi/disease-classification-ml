@@ -1,0 +1,36 @@
+{
+  "Acute": [
+    "Allergy",
+    "Bronchitis",
+    "Common Cold",
+    "COVID-19",
+    "Food Poisoning",
+    "Gastritis",
+    "Influenza",
+    "Migraine",
+    "Pneumonia",
+    "Sinusitis",
+    "Ulcer"
+  ],
+  "Chronic": [
+    "Anemia",
+    "Anxiety",
+    "Arthritis",
+    "Asthma",
+    "Chronic Kidney Disease",
+    "Dementia",
+    "Depression",
+    "Dermatitis",
+    "Diabetes",
+    "Epilepsy",
+    "Heart Disease",
+    "Hypertension",
+    "IBS",
+    "Liver Disease",
+    "Obesity",
+    "Parkinson's",
+    "Stroke",
+    "Thyroid Disorder",
+    "Tuberculosis"
+  ]
+}
